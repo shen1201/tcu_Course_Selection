@@ -5,7 +5,7 @@
 <img width="1597" height="789" alt="image" src="https://github.com/user-attachments/assets/9d391efd-b588-4e95-92d2-ffa496ce1a94" />
 <img width="232" height="52" alt="image" src="https://github.com/user-attachments/assets/69c593cf-d2a8-4cf3-af2f-316003d3dbd2" />
 
-### 3.解壓縮，刪除原本的貼上新的，自己的google記得更新最新版
+### 3.刪除原本的檔，解壓縮新檔貼上，自己的google記得更新最新版
 <img width="703" height="175" alt="image" src="https://github.com/user-attachments/assets/22aa4f55-e94d-43e1-be85-5ce4424062c9" />
 
 ### 4.執行.py檔記得要安裝selenium套件，pip install selenium
